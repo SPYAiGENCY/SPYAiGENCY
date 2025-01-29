@@ -1,6 +1,3 @@
-
-![path247726](https://github.com/user-attachments/assets/f91b5c49-75a5-4f77-a73a-c3c8f04260aa)
-
 Cipher Knight is a! cutting-edge intelligence agency that leverages artificial intelligence, quantum technologies, and advanced surveillance systems to provide next-generation intelligence services. Our mission is to empower organizations, governments, and individuals with the tools and insights needed to navigate the complexities of the modern world. Combining the power of AI with human ingenuity, we specialize in data collection, analysis, and strategic decision-making in a wide array of domains.
 
 ## Our Expertise
