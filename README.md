@@ -1,10 +1,8 @@
-![human-eyes-black-dots-600w-69308764-removebg-preview](https://github.com/user-attachments/assets/e72b5eb4-4d4c-4b1f-86b9-436bf87c7051)
-
-SPYAIGENCY is a cutting-edge intelligence agency that leverages artificial intelligence, quantum technologies, and advanced surveillance systems to provide next-generation intelligence services. Our mission is to empower organizations, governments, and individuals with the tools and insights needed to navigate the complexities of the modern world. Combining the power of AI with human ingenuity, we specialize in data collection, analysis, and strategic decision-making in a wide array of domains.
+Cipher Knight is a cutting-edge intelligence agency that leverages artificial intelligence, quantum technologies, and advanced surveillance systems to provide next-generation intelligence services. Our mission is to empower organizations, governments, and individuals with the tools and insights needed to navigate the complexities of the modern world. Combining the power of AI with human ingenuity, we specialize in data collection, analysis, and strategic decision-making in a wide array of domains.
 
 ## Our Expertise
 
-At SPYAIGENCY, we pride ourselves on the integration of the latest technological advancements in the fields of:
+At Cypher Knight, we pride ourselves on the integration of the latest technological advancements in the fields of:
 - **Artificial Intelligence**: Using machine learning, natural language processing, and neural networks to analyze vast datasets and deliver actionable insights.
 - **Quantum Computing**: Harnessing the power of quantum systems to solve complex problems and enhance security protocols.
 - **Surveillance Technology**: Utilizing cutting-edge tools for real-time data collection, monitoring, and situational awareness.
@@ -14,15 +12,15 @@ At SPYAIGENCY, we pride ourselves on the integration of the latest technological
 
 ## Our Mission
 
-We are committed to providing intelligence that is actionable, relevant, and reliable. Our mission is to enhance decision-making by delivering high-quality, real-time intelligence in a rapidly changing world. Whether it's protecting sensitive data, monitoring adversaries, or providing strategic advice, SPYAIGENCY offers the tools and expertise needed to stay ahead of the curve.
+We are committed to providing intelligence that is actionable, relevant, and reliable. Our mission is to enhance decision-making by delivering high-quality, real-time intelligence in a rapidly changing world. Whether it's protecting sensitive data, monitoring adversaries, or providing strategic advice, Cipher Knight offers the tools and expertise needed to stay ahead of the curve.
 
 ### Our Vision
 
 We envision a world where intelligence is not just a tool for defense but a powerful resource for growth, sustainability, and innovation. We aim to be the leading provider of intelligence solutions that bridge the gap between artificial intelligence and human judgment, shaping a future where organizations and individuals can thrive in a constantly evolving landscape.
 
-## The SPYAIGENCY Advantage
+## The Cipher Knight Advantage
 
-What sets SPYAIGENCY apart is our ability to combine cutting-edge AI and quantum technologies with traditional intelligence-gathering methods. Our team consists of experts from diverse fields, including cybersecurity, military intelligence, data science, and quantum physics. By merging these disciplines, we offer tailored solutions that meet the unique challenges of our clients.
+What sets CipherKnight apart is our ability to combine cutting-edge AI and quantum technologies with traditional intelligence-gathering methods. Our team consists of experts from diverse fields, including cybersecurity, military intelligence, data science, and quantum physics. By merging these disciplines, we offer tailored solutions that meet the unique challenges of our clients.
 
 ## Join the Future of Intelligence
 
