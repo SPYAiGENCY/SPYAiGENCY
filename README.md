@@ -27,7 +27,7 @@ What sets CipherKnight apart is our ability to combine cutting-edge AI and quant
 
 ## Join the Future of Intelligence
 
-SPYAIGENCY is leading the way in transforming the intelligence landscape with innovative technology and a commitment to excellence. If you're ready to leverage the power of AI, quantum computing, and state-of-the-art surveillance systems, we invite you to partner with us and redefine what's possible in the world of intelligence.
+Cipher Knight is leading the way in transforming the intelligence landscape with innovative technology and a commitment to excellence. If you're ready to leverage the power of AI, quantum computing, and state-of-the-art surveillance systems, we invite you to partner with us and redefine what's possible in the world of intelligence.
 
 ---
 
